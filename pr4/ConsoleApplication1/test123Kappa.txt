@@ -1,0 +1,6 @@
+public static dong(String[] dong){
+
+if(not not not true){
+ ArrayList dong=new dong[];
+}
+}
